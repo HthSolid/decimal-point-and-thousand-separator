@@ -1,32 +1,34 @@
-Country Separators JSON
-This repository contains a JSON file (countries_separators.json) with information about countries, their ISO 2-character codes, thousand separators, and decimal separators.
+# Country Separators JSON
 
-File Contents
-The countries_separators.json file includes an array of objects, each representing a country. Each object has the following properties:
+This repository contains a JSON file (`countries_separators.json`) with information about countries, their ISO 2-character codes, thousand separators, and decimal separators.
 
-country: The name of the country.
-iso_code: The ISO 2-character code for the country.
-thousand_separator: The symbol used for thousand separators in that country.
-decimal_separator: The symbol used for decimal separators in that country.
+## File Contents
+
+The `countries_separators.json` file includes an array of objects, each representing a country. Each object has the following properties:
+
+- `country`: The name of the country.
+- `iso_code`: The ISO 2-character code for the country.
+- `thousand_separator`: The symbol used for thousand separators in that country.
+- `decimal_separator`: The symbol used for decimal separators in that country.
+
 Example entry:
-
-json
-Code kopieren
+```json
 {
     "country": "United States",
     "iso_code": "US",
     "thousand_separator": ",",
     "decimal_separator": "."
 }
+```
 How to Use
 Loading the JSON File
 You can load and use the JSON file in various programming languages. Below are examples in JavaScript and Python.
 
-JavaScript
+## JavaScript
 Using Node.js to read and parse the JSON file:
 
-javascript
-Code kopieren
+```javascript
+
 const fs = require('fs');
 
 // Read the JSON file
@@ -44,11 +46,12 @@ fs.readFile('countries_separators.json', 'utf8', (err, data) => {
         console.log(`Country: ${country.country}, Thousand Separator: ${country.thousand_separator}, Decimal Separator: ${country.decimal_separator}`);
     });
 });
-Python
+```
+
+## Python
 Using Python to read and parse the JSON file:
 
-python
-Code kopieren
+```python
 import json
 
 # Read the JSON file
@@ -58,13 +61,15 @@ with open('countries_separators.json', 'r') as file:
 # Example: Print all countries and their separators
 for country in countries:
     print(f"Country: {country['country']}, Thousand Separator: {country['thousand_separator']}, Decimal Separator: {country['decimal_separator']}")
+```
+
 Integrating with Your Application
 You can integrate this JSON file into your application to format numbers according to the conventions of different countries. This can be useful for internationalization (i18n) purposes.
 
-Example Usage
-JavaScript
-javascript
-Code kopieren
+# Example Usage
+## JavaScript
+```javascript
+
 function formatNumber(number, country) {
     // Find the country object by ISO code or name
     const countryInfo = countries.find(c => c.iso_code === country || c.country === country);
@@ -85,9 +90,11 @@ function formatNumber(number, country) {
 // Example: Format a number for Germany
 const formattedNumber = formatNumber(1234567.89, 'DE');
 console.log(formattedNumber); // "1.234.567,89"
-Python
-python
-Code kopieren
+```
+
+## Python
+```python
+
 def format_number(number, country_code):
     # Find the country object by ISO code
     country_info = next((c for c in countries if c['iso_code'] == country_code), None)
@@ -104,11 +111,13 @@ def format_number(number, country_code):
 # Example: Format a number for Germany
 formatted_number = format_number(1234567.89, 'DE')
 print(formatted_number)  # "1.234.567,89"
-Contributing
+```
+
+# Contributing
 If you find any inaccuracies or want to add more countries, feel free to open a pull request. Contributions are welcome!
 
-License
+# License
 This project is licensed under the MIT License.
 
-Acknowledgements
+# Acknowledgements
 The data in this JSON file is compiled from various sources to provide accurate and up-to-date information on country-specific number formatting conventions.

@@ -1,0 +1,1172 @@
+[
+    {
+        "country": "Afghanistan",
+        "iso_code": "AF",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Albania",
+        "iso_code": "AL",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Algeria",
+        "iso_code": "DZ",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Andorra",
+        "iso_code": "AD",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Angola",
+        "iso_code": "AO",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "iso_code": "AG",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Argentina",
+        "iso_code": "AR",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Armenia",
+        "iso_code": "AM",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Australia",
+        "iso_code": "AU",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Austria",
+        "iso_code": "AT",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Azerbaijan",
+        "iso_code": "AZ",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Bahamas",
+        "iso_code": "BS",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Bahrain",
+        "iso_code": "BH",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Bangladesh",
+        "iso_code": "BD",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Barbados",
+        "iso_code": "BB",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Belarus",
+        "iso_code": "BY",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Belgium",
+        "iso_code": "BE",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Belize",
+        "iso_code": "BZ",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Benin",
+        "iso_code": "BJ",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Bhutan",
+        "iso_code": "BT",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Bolivia",
+        "iso_code": "BO",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "iso_code": "BA",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Botswana",
+        "iso_code": "BW",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Brazil",
+        "iso_code": "BR",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Brunei",
+        "iso_code": "BN",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Bulgaria",
+        "iso_code": "BG",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Burkina Faso",
+        "iso_code": "BF",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Burundi",
+        "iso_code": "BI",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Cabo Verde",
+        "iso_code": "CV",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Cambodia",
+        "iso_code": "KH",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Cameroon",
+        "iso_code": "CM",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Canada",
+        "iso_code": "CA",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Central African Republic",
+        "iso_code": "CF",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Chad",
+        "iso_code": "TD",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Chile",
+        "iso_code": "CL",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "China",
+        "iso_code": "CN",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Colombia",
+        "iso_code": "CO",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Comoros",
+        "iso_code": "KM",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Congo (Congo-Brazzaville)",
+        "iso_code": "CG",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Costa Rica",
+        "iso_code": "CR",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Croatia",
+        "iso_code": "HR",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Cuba",
+        "iso_code": "CU",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Cyprus",
+        "iso_code": "CY",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Czech Republic",
+        "iso_code": "CZ",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "iso_code": "CD",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Denmark",
+        "iso_code": "DK",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Djibouti",
+        "iso_code": "DJ",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Dominica",
+        "iso_code": "DM",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Dominican Republic",
+        "iso_code": "DO",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Ecuador",
+        "iso_code": "EC",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Egypt",
+        "iso_code": "EG",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "El Salvador",
+        "iso_code": "SV",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Equatorial Guinea",
+        "iso_code": "GQ",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Eritrea",
+        "iso_code": "ER",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Estonia",
+        "iso_code": "EE",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Eswatini (fmr. Swaziland)",
+        "iso_code": "SZ",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+  {
+        "country": "Ethiopia",
+        "iso_code": "ET",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Fiji",
+        "iso_code": "FJ",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Finland",
+        "iso_code": "FI",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "France",
+        "iso_code": "FR",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Gabon",
+        "iso_code": "GA",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Gambia",
+        "iso_code": "GM",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Georgia",
+        "iso_code": "GE",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Germany",
+        "iso_code": "DE",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Ghana",
+        "iso_code": "GH",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Greece",
+        "iso_code": "GR",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Grenada",
+        "iso_code": "GD",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Guatemala",
+        "iso_code": "GT",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Guinea",
+        "iso_code": "GN",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Guinea-Bissau",
+        "iso_code": "GW",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Guyana",
+        "iso_code": "GY",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Haiti",
+        "iso_code": "HT",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Honduras",
+        "iso_code": "HN",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Hungary",
+        "iso_code": "HU",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Iceland",
+        "iso_code": "IS",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "India",
+        "iso_code": "IN",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Indonesia",
+        "iso_code": "ID",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Iran",
+        "iso_code": "IR",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Iraq",
+        "iso_code": "IQ",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Ireland",
+        "iso_code": "IE",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Israel",
+        "iso_code": "IL",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Italy",
+        "iso_code": "IT",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Jamaica",
+        "iso_code": "JM",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Japan",
+        "iso_code": "JP",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Jordan",
+        "iso_code": "JO",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Kazakhstan",
+        "iso_code": "KZ",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Kenya",
+        "iso_code": "KE",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Kiribati",
+        "iso_code": "KI",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Kuwait",
+        "iso_code": "KW",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Kyrgyzstan",
+        "iso_code": "KG",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Laos",
+        "iso_code": "LA",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Latvia",
+        "iso_code": "LV",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Lebanon",
+        "iso_code": "LB",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Lesotho",
+        "iso_code": "LS",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Liberia",
+        "iso_code": "LR",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Libya",
+        "iso_code": "LY",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Liechtenstein",
+        "iso_code": "LI",
+        "thousand_separator": "'",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Lithuania",
+        "iso_code": "LT",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Luxembourg",
+        "iso_code": "LU",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Madagascar",
+        "iso_code": "MG",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Malawi",
+        "iso_code": "MW",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Malaysia",
+        "iso_code": "MY",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Maldives",
+        "iso_code": "MV",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Mali",
+        "iso_code": "ML",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Malta",
+        "iso_code": "MT",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Marshall Islands",
+        "iso_code": "MH",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Mauritania",
+        "iso_code": "MR",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Mauritius",
+        "iso_code": "MU",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Mexico",
+        "iso_code": "MX",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Micronesia",
+        "iso_code": "FM",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Moldova",
+        "iso_code": "MD",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Monaco",
+        "iso_code": "MC",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Mongolia",
+        "iso_code": "MN",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Montenegro",
+        "iso_code": "ME",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+  {
+        "country": "Morocco",
+        "iso_code": "MA",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Mozambique",
+        "iso_code": "MZ",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Myanmar (formerly Burma)",
+        "iso_code": "MM",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Namibia",
+        "iso_code": "NA",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Nauru",
+        "iso_code": "NR",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Nepal",
+        "iso_code": "NP",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Netherlands",
+        "iso_code": "NL",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "New Zealand",
+        "iso_code": "NZ",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Nicaragua",
+        "iso_code": "NI",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Niger",
+        "iso_code": "NE",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Nigeria",
+        "iso_code": "NG",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "North Korea",
+        "iso_code": "KP",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "North Macedonia",
+        "iso_code": "MK",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Norway",
+        "iso_code": "NO",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Oman",
+        "iso_code": "OM",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Pakistan",
+        "iso_code": "PK",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Palau",
+        "iso_code": "PW",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Palestine State",
+        "iso_code": "PS",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Panama",
+        "iso_code": "PA",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Papua New Guinea",
+        "iso_code": "PG",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Paraguay",
+        "iso_code": "PY",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Peru",
+        "iso_code": "PE",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Philippines",
+        "iso_code": "PH",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Poland",
+        "iso_code": "PL",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Portugal",
+        "iso_code": "PT",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Qatar",
+        "iso_code": "QA",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Romania",
+        "iso_code": "RO",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Russia",
+        "iso_code": "RU",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Rwanda",
+        "iso_code": "RW",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "iso_code": "KN",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Saint Lucia",
+        "iso_code": "LC",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "iso_code": "VC",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Samoa",
+        "iso_code": "WS",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "San Marino",
+        "iso_code": "SM",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "iso_code": "ST",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Saudi Arabia",
+        "iso_code": "SA",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Senegal",
+        "iso_code": "SN",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Serbia",
+        "iso_code": "RS",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Seychelles",
+        "iso_code": "SC",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Sierra Leone",
+        "iso_code": "SL",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Singapore",
+        "iso_code": "SG",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Slovakia",
+        "iso_code": "SK",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Slovenia",
+        "iso_code": "SI",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Solomon Islands",
+        "iso_code": "SB",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Somalia",
+        "iso_code": "SO",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "South Africa",
+        "iso_code": "ZA",
+        "thousand_separator": " ",
+        "decimal_separator": "."
+    },
+    {
+        "country": "South Korea",
+        "iso_code": "KR",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "South Sudan",
+        "iso_code": "SS",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Spain",
+        "iso_code": "ES",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Sri Lanka",
+        "iso_code": "LK",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Sudan",
+        "iso_code": "SD",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+  {
+        "country": "Suriname",
+        "iso_code": "SR",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Sweden",
+        "iso_code": "SE",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Switzerland",
+        "iso_code": "CH",
+        "thousand_separator": "'",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Syria",
+        "iso_code": "SY",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Taiwan",
+        "iso_code": "TW",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Tajikistan",
+        "iso_code": "TJ",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Tanzania",
+        "iso_code": "TZ",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+  {
+        "country": "Thailand",
+        "iso_code": "TH",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Timor-Leste",
+        "iso_code": "TL",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Togo",
+        "iso_code": "TG",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Tonga",
+        "iso_code": "TO",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "iso_code": "TT",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Tunisia",
+        "iso_code": "TN",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Turkey",
+        "iso_code": "TR",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Turkmenistan",
+        "iso_code": "TM",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Tuvalu",
+        "iso_code": "TV",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Uganda",
+        "iso_code": "UG",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Ukraine",
+        "iso_code": "UA",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "United Arab Emirates",
+        "iso_code": "AE",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "United Kingdom",
+        "iso_code": "GB",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "United States",
+        "iso_code": "US",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Uruguay",
+        "iso_code": "UY",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Uzbekistan",
+        "iso_code": "UZ",
+        "thousand_separator": " ",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Vanuatu",
+        "iso_code": "VU",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Vatican City",
+        "iso_code": "VA",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Venezuela",
+        "iso_code": "VE",
+        "thousand_separator": ".",
+        "decimal_separator": ","
+    },
+    {
+        "country": "Vietnam",
+        "iso_code": "VN",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Yemen",
+        "iso_code": "YE",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Zambia",
+        "iso_code": "ZM",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    },
+    {
+        "country": "Zimbabwe",
+        "iso_code": "ZW",
+        "thousand_separator": ",",
+        "decimal_separator": "."
+    }
+]
